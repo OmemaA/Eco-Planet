@@ -5,7 +5,7 @@
 
 ## Requirements:
 - Libraries: SDL (Simple DirectMedia Layer)l decrease. 
-##Controls:
+## Controls:
 - Right Arrow: moves forward
 - Left Arrow: moves background
 - Arrow Up: jumps
